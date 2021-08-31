@@ -1,22 +1,22 @@
-### Download VirtualBox & Pure OS
+# Download VirtualBox & Pure OS
 
-#### 1.1 Download VirtualBox
+## 1. Download VirtualBox
 
 Go to the following URL and download a VirtualBox software. [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
 Please download based on the type of computer you are using. For example, macOS users should download "OS X hosts" option.
 
-![image-20210831163346860](images/image-20210831163346860.png)
+<img src="images/image-20210831163346860.png" alt="image-20210831163346860" style="zoom: 50%;" />
 
-#### 1.2 Download Pure OS
+## 2. Download Pure OS
 
 Next, go to the following URL to download Pure OS. Download the "Stable" version. There is no macOS and Windows distinction for this download. 
 
 [https://pureos.net/download/](https://pureos.net/download/)
 
-![image-20210831163432935](images/image-20210831163432935-16304456752016.png)
+<img src="images/image-20210831163432935.png" alt="image-20210831163432935" style="zoom:50%;" />
 
-#### 1.3 (Advanced) Obtain SHA256 Information
+## 3. Obtain SHA256 Information
 
 Notice that both download websites provide `SHA256 checksums` or `SHA256SUM` . Those are long strings of text that seem have no meaning. But those are important for the security reasons. We can verify whether we have downloaded the files we intended to download by checking the hash values against what is provided by the author. In other words, we should be able to re-produce the hash value on our end. 
 
@@ -40,15 +40,15 @@ That for Pure OS is
 
 `041466fba2e1b7cfca576d003e9553490d541653d84d29dfb5adba957fffe88e` 
 
-#### 1.4 Generate Hash Values for Each File
+## 4. Generate Hash Values for Each File
 
 **Step 1. **Using the file explorer, go to the folder where the files are downloaded (or saved). And type `cmd` in the address bar. Then, hit the `Enter` key. 
 
-![image-20210831161333759](images/image-20210831161333759.png)
+<img src="images/image-20210831161333759.png" alt="image-20210831161333759" style="zoom:50%;" />
 
 **Step 2.**  Use the `dir` command to list all the files in the folder. Please visually confirm whether the target files are in the list. `dir` means "show what is in the directory."
 
-![image-20210831161358743](images/image-20210831161358743-16304444412742.png)
+<img src="images/image-20210831161358743.png" alt="image-20210831161358743" style="zoom:50%;" />
 
 **Step 3.** Use the following command to generate the hash value. 
 
@@ -56,5 +56,5 @@ That for Pure OS is
 
 Use the target file name in place of "file_name" in the command above. `SHA256` is the algorithm that is being used to generate the hash value in this case. There are other types of hash algorithms, for example, `MD5`, `SHA1`, `SHA128`, `SHA512`, etc. 
 
-![image-20210831161411343](images/image-20210831161411343-16304444529433.png)
+<img src="images/image-20210831161411343.png" alt="image-20210831161411343" style="zoom:50%;" />
 
