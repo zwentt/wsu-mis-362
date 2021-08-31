@@ -42,7 +42,7 @@ That for Pure OS is
 
 ## 4. Generate Hash Values for Each File
 
-**Step 1. **Using the file explorer, go to the folder where the files are downloaded (or saved). And type `cmd` in the address bar. Then, hit the `Enter` key. 
+**Step 1.** Using the file explorer, go to the folder where the files are downloaded (or saved). And type `cmd` in the address bar. Then, hit the `Enter` key. 
 
 <img src="images/image-20210831161333759.png" alt="image-20210831161333759" style="zoom:50%;" />
 
