@@ -16,13 +16,13 @@ We can verify whether we have downloaded the files we intended to download by ch
 
 **Step 1. **Using the file explorer, go to the folder where the files are downloaded (or saved). And type `cmd` in the address bar. Then, hit the `Enter` key. 
 
-![](C:\Users\pb8244sj\AppData\Roaming\marktext\images\2021-08-31-15-47-08-image.png)
+![](C:\Users\pb8244sj\AppData\Roaming\marktext\images\2021-08-31-15-47-08-image.png)![](D:\OneDrive%20-%20MNSCU\Documents\Github\wsu-mis-362\images\2021-08-31-15-52-25-image.png)
 
 
 
 **Step 2. **Use the `dir` command to list all the files in the folder. Please visually confirm whether the target files are in the list. `dir` means "show what is in the directory."
 
-![](C:\Users\pb8244sj\AppData\Roaming\marktext\images\2021-08-31-15-46-53-image.png)
+![](D:\OneDrive%20-%20MNSCU\Documents\Github\wsu-mis-362\images\2021-08-31-15-52-14-image.png)
 
 
 
@@ -32,7 +32,7 @@ We can verify whether we have downloaded the files we intended to download by ch
 
 Use the target file name in place of "file_name" in the command above. `SHA256` is the algorithm that is being used to generate the hash value in this case. There are other types of hash algorithms, for example, `MD5`, `SHA1`, `SHA128`, `SHA512`, etc. 
 
-![](C:\Users\pb8244sj\AppData\Roaming\marktext\images\2021-08-31-15-47-18-image.png)
+![](D:\OneDrive%20-%20MNSCU\Documents\Github\wsu-mis-362\images\2021-08-31-15-51-48-image.png)
 
 
 
