@@ -8,7 +8,9 @@
 
 [1.1 Download VirtualBox and Pure OS](https://github.com/zwentt/wsu-mis-362/blob/main/1.1%20Download%20VirtualBox%20and%20Pure%20OS.md)
 
-[1.2 Install and Setup VirtualBox](https://github.com/zwentt/wsu-mis-362/blob/main/1.2%20Install%20and%20Setup%20Virtual%20Machine.md)
+[1.2 Install and Setup VirtualBox in Windows](https://github.com/zwentt/wsu-mis-362/blob/main/1.2%20Install%20and%20Setup%20Virtual%20Machine.md)
+
+[1.2.1 Install and Setup VirtualBox in macOS](https://github.com/zwentt/wsu-mis-362/blob/main/1.2.1%20Install%20and%20Setup%20VirtualBox%20Software%20on%20a%20macOS.pdf)
 
 [1.3 Configure VirtualBox to Create the Your First Virtual Machine](https://github.com/zwentt/wsu-mis-362/blob/main/1.3%20Configure%20VirtualBox%20to%20Create%20the%20First%20Virtual%20Machine.md)
 
