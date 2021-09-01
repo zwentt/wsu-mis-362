@@ -1,1 +1,18 @@
-# wsu-mis-362
+# MIS 362-03 Management Information Systems
+
+## 0. Computer and Work Setup 101
+
+[0. Setup Your Computer](https://github.com/zwentt/wsu-mis-362/blob/main/0.%20Setup%20Your%20Computer.md)
+
+## 1. Virtual Machine
+
+[1.1 Download VirtualBox and Pure OS](https://github.com/zwentt/wsu-mis-362/blob/main/1.1%20Download%20VirtualBox%20and%20Pure%20OS.md)
+
+[1.2 Install and Setup VirtualBox](https://github.com/zwentt/wsu-mis-362/blob/main/1.2%20Install%20and%20Setup%20Virtual%20Machine.md)
+
+[1.3 Configure VirtualBox to Create the Your First Virtual Machine](https://github.com/zwentt/wsu-mis-362/blob/main/1.3%20Configure%20VirtualBox%20to%20Create%20the%20First%20Virtual%20Machine.md)
+
+[1.4 Install Pure OS on the Virtual Machine](https://github.com/zwentt/wsu-mis-362/blob/main/1.4%20Install%20PureOS%20on%20the%20Virtual%20Machine.md)
+
+
+
