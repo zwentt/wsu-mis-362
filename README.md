@@ -2,7 +2,7 @@
 
 ## 0. Computer and Work Setup 101
 
-[0. Setup Your Computer](https://github.com/zwentt/wsu-mis-362/blob/main/0.%20Setup%20Your%20Computer.md)
+[0. Setup Your Computer](https://zwentt.github.com/wsu-mis-362/0.%20Setup%20Your%20Computer)
 
 ## 1. Virtual Machine
 
