@@ -2,7 +2,9 @@
 
 ## 1. Download VirtualBox
 
-Go to the following URL and download a VirtualBox software. [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+Go to the following URL and download a VirtualBox software. 
+
+[https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 
 Please download based on the type of computer you are using. For example, macOS users should download "OS X hosts" option.
 
