@@ -16,5 +16,7 @@
 
 [1.4 Install Pure OS on the Virtual Machine](https://zwentt.github.io/wsu-mis-362/1.4%20Install%20PureOS%20on%20the%20Virtual%20Machine)
 
+[1.5 Assignments](https://zwentt.github.io/)
+
 
 
