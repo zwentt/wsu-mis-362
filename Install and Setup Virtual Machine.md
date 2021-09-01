@@ -66,5 +66,4 @@ Step 9. Let's give the virtual machine a little more display power. Click `Setti
 
 Step 10. Let's turn on the computer by clicking the `Start` icon! It will take some time for the computer to "boot up". Please watch the following video for a brief introduction of the environment. 
 
-<video src="videos/virtual_box_first_boot.mp4"></video>
-
+https://youtu.be/L_8bhRZjrUs
