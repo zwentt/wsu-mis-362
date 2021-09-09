@@ -20,9 +20,9 @@
 
 ## 2. Raspberry Pi Initial Setup 
 
-[2.0 Get Raspberry Pi 3 B+ Ready](https://zwentt.github.io/wsu-mis-362/2.0%20Get%20Raspberry%20Pi%203%20B%2B%20Ready.md)
+[2.0 Get Raspberry Pi 3 B+ Ready](https://zwentt.github.io/wsu-mis-362/2.0%20Get%20Raspberry%20Pi%203%20B%2B%20Ready)
 
-[2.1 Install Raspberry Pi OS](https://zwentt.github.io/wsu-mis-362/2.1%20Install%20Raspberry%20Pi%20OS%20.md)
+[2.1 Install Raspberry Pi OS](https://zwentt.github.io/wsu-mis-362/2.1%20Install%20Raspberry%20Pi%20OS%20)
 
 [2.2 Turn on Your Raspberry Pi 3 B+ for the First Time (To be updated soon)]
 
