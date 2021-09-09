@@ -24,6 +24,6 @@
 
 [2.1 Install Raspberry Pi OS](https://zwentt.github.io/wsu-mis-362/2.1%20Install%20Raspberry%20Pi%20OS%20)
 
-[2.2 Turn on Your Raspberry Pi 3 B+ for the First Time (To be updated soon)]
+[2.2 2.2 Connect to an External Display](https://zwentt.github.io/wsu-mis-362/2.2%20Connect%20to%20an%20External%20Display%20%26%20VNC)
 
 
