@@ -2,11 +2,11 @@
 
 ## 0. Computer and Work Setup 101
 
-[0. Setup Your Computer](https://zwentt.github.io/wsu-mis-362/0.%20Setup%20Your%20Computer)
+[0. Setup Your Computer](https://zwentt.github.io/wsu-mis-362/0.%20Setup%20Your%20Computer){:target="_blank"}
 
 ## 1. Virtual Machine
 
-[1.1 Download VirtualBox and Pure OS](https://zwentt.github.io/wsu-mis-362/1.1%20Download%20VirtualBox%20and%20Pure%20OS)
+[1.1 Download VirtualBox and Pure OS](https://zwentt.github.io/wsu-mis-362/1.1%20Download%20VirtualBox%20and%20Pure%20OS){:target="_blank"}
 
 [1.2 Install and Setup VirtualBox in Windows](https://zwentt.github.io/wsu-mis-362/1.2%20Install%20and%20Setup%20Virtual%20Machine)
 
