@@ -34,6 +34,10 @@
 
 [2.6 Connect to Pi Using SSH](https://zwentt.github.io/wsu-mis-362/2.6%20Connect%20to%20Pi%20using%20SSH){:target="_blank"}
 
-### 3. Database Exercises using MariaDB 
+## 3. Database Exercises using MariaDB 
 
-[3.0 Setup MariaDB in Raspberry Pi]()
+[3.0 Setup MariaDB in Raspberry Pi](https://zwentt.github.io/wsu-mis-362/3.0%20Setup%20MariaDB){:target="_blank"}
+
+[3.1 Manage User Access](https://zwentt.github.io/wsu-mis-362/3.1%20Manage%20User%20Access){:target="_blank"}
+
+[3.2 SQL Fundamentals - Creating Database and Tables](){:target="_blank"}
