@@ -40,5 +40,5 @@
 
 [3.1 Manage User Access](https://zwentt.github.io/wsu-mis-362/3.1%20Manage%20User%20Access){:target="_blank"}
 
-[3.2 SQL Fundamentals - Creating Database and Tables](https://zwentt.github.io/wsu-mis-362/3.2%20SQL%20Fundamentals%20Creating%20Database%20and%20Tables.md){:target="_blank"}
+[3.2 SQL Fundamentals - Creating Database and Tables](https://zwentt.github.io/wsu-mis-362/3.2%20SQL%20Fundamentals%20Creating%20Database%20and%20Tables){:target="_blank"}
 
