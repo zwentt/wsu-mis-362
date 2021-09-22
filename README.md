@@ -33,3 +33,7 @@
 [2.5 Configure VNC for Remote Connection](https://zwentt.github.io/wsu-mis-362/2.5%20Configure%20VNC%20for%20Remote%20Connection){:target="_blank"}
 
 [2.6 Connect to Pi Using SSH](https://zwentt.github.io/wsu-mis-362/2.6%20Connect%20to%20Pi%20using%20SSH){:target="_blank"}
+
+### 3. Database Exercises using MariaDB 
+
+[3.0 Setup MariaDB in Raspberry Pi]()
