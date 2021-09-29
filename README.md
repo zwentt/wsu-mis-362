@@ -42,3 +42,9 @@
 
 [3.2 SQL Fundamentals - Creating Database and Tables](https://zwentt.github.io/wsu-mis-362/3.2%20SQL%20Fundamentals%20Creating%20Database%20and%20Tables){:target="_blank"}
 
+[3.2.1 SQL Fundamentals - Examples of Errors](https://zwentt.github.io/wsu-mis-362/3.2.1%20SQL%20Fundamentals%20-%20Examples%20of%20Errors%20){:target="_blank"}
+
+[3.3 Example Database - Sakila](https://zwentt.github.io/wsu-mis-362/3.3%20Example%20Database%20-%20Sakila){:target="_blank"} 
+
+[3.4 More SQL Exercises](https://zwentt.github.io/wsu-mis-362/3.4%20More%20SQL%20Exercises){:target="_blank"}
+
