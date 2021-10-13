@@ -48,3 +48,15 @@
 
 [3.4 More SQL Exercises](https://zwentt.github.io/wsu-mis-362/3.4%20More%20SQL%20Exercises){:target="_blank"}
 
+### 4. A Simple Example of Business Intelligence & Analytics
+
+[4.0 A Simple Example - Introductory Comments](https://zwentt.github.io/wsu-mis-362/4.0%20A%20Simple%20Example%20for%20Analytics){:target="_blank"}
+
+[4.1 Exporting Data for Analytics - Part 1/2](https://zwentt.github.io/wsu-mis-362/4.1%20Exporting%20Data%20for%20Analytics){:target="_blank"}
+
+[4.1.1 Data in its Naked Form](https://zwentt.github.io/wsu-mis-362/4.1.1%20Data%20in%20its%20Naked%20Form){:target="_blank"}
+
+[4.2 Exporting Data for Analytics - Part 2/2](https://zwentt.github.io/wsu-mis-362/4.2%20Exporting%20Data%20for%20Analytics%20-%20Part%202){:target="_blank"}
+
+[4.2.1 Structural Handling of Text Data](https://zwentt.github.io/wsu-mis-362/4.2.1%20Handling%20Text%20Data){:target="_blank"}
+
