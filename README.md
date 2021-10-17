@@ -58,5 +58,3 @@
 
 [4.2 Exporting Data for Analytics - Part 2/2](https://zwentt.github.io/wsu-mis-362/4.2%20Exporting%20Data%20for%20Analytics%20-%20Part%202){:target="_blank"}
 
-[4.2.1 Structural Handling of Text Data](https://zwentt.github.io/wsu-mis-362/4.2.1%20Handling%20Text%20Data){:target="_blank"}
-
