@@ -60,15 +60,15 @@
 
 4.3 Structured Manipulation of Text Data
 
-## 5. Web Server 
+## 5. Apache Web Server
 
-[5.0 Setup Raspberry Pi as a Web Server](https://zwentt.github.io/wsu-mis-362/5.0%20Setup%20Raspberry%20Pi%20as%20a%20Web%20Server)
+[5.0 Setup Raspberry Pi as a Web Server](https://zwentt.github.io/wsu-mis-362/5.0%20Setup%20Raspberry%20Pi%20as%20a%20Web%20Server){:target="_blank"}
 
-[5.1 Setup Apache Server](https://zwentt.github.io/wsu-mis-362/5.1%20Setup%20Apache%20Server)
+[5.1 Setup Apache Server](https://zwentt.github.io/wsu-mis-362/5.1%20Setup%20Apache%20Server){:target="_blank"}
 
-[5.2 Understand Apache Root Directory](https://zwentt.github.io/wsu-mis-362/5.2%20Understand%20Apache%20Root%20Directory)
+[5.2 Understand Apache Root Directory](https://zwentt.github.io/wsu-mis-362/5.2%20Understand%20Apache%20Root%20Directory){:target="_blank"}
 
-[5.3 Setting Permission of the Root Directory](https://zwentt.github.io/wsu-mis-362/5.3%20Setting%20Permission%20of%20the%20Root%20Directory)
+[5.3 Setting Permission of the Root Directory](https://zwentt.github.io/wsu-mis-362/5.3%20Setting%20Permission%20of%20the%20Root%20Directory){:target="_blank"}
 
-[5.4 Host an Example Web Page](https://zwentt.github.io/wsu-mis-362/5.4%20Host%20an%20Example%20Web%20Page)
+[5.4 Host an Example Web Page](https://zwentt.github.io/wsu-mis-362/5.4%20Host%20an%20Example%20Web%20Page){:target="_blank"}
 
