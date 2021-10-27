@@ -58,7 +58,7 @@
 
 [4.2 Exporting Data for Analytics - Part 2/2](https://zwentt.github.io/wsu-mis-362/4.2%20Exporting%20Data%20for%20Analytics%20-%20Part%202){:target="_blank"}
 
-4.3 Structured Manipulation of Text Data
+[4.2.1 Structured Manipulation of Text Data](https://zwentt.github.io/wsu-mis-362/4.2.1%20Structured%20Handling%20of%20Text%20Data){:target="_blank"}
 
 ## 5. Apache Web Server
 
