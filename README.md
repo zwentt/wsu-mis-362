@@ -66,3 +66,9 @@
 
 5.1 Setup Apache Server
 
+5.2 Understand Apache Root Directory
+
+5.3 Setting Permission of the Root Directory
+
+5.4 Host an Example Web Page
+
