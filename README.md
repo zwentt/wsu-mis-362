@@ -60,6 +60,8 @@
 
 [4.2.1 Structured Manipulation of Text Data](https://zwentt.github.io/wsu-mis-362/4.2.1%20Structured%20Handling%20of%20Text%20Data){:target="_blank"}
 
+4.3 Descriptive and Predictive Analytics Demo{:target="_blank"}
+
 ## 5. Apache Web Server
 
 [5.0 Setup Raspberry Pi as a Web Server](https://zwentt.github.io/wsu-mis-362/5.0%20Setup%20Raspberry%20Pi%20as%20a%20Web%20Server){:target="_blank"}
